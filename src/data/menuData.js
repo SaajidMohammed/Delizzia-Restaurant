@@ -1,23 +1,23 @@
 // src/data/menuData.js
 import pizza1 from '../assets/Images/Menu1.png';
-import pizza2 from '../assets/Images/Pizza2.png';
-import pizza3 from '../assets/Images/Pizza3.png';
-import pizza4 from '../assets/Images/Pizza4.png';
+import pizza2 from '../assets/Images/pizza2.png';
+import pizza3 from '../assets/Images/pizza3.png';
+import pizza4 from '../assets/Images/pizza4.png';
 
 import pasta1 from '../assets/Images/Menu2.png';
-import pasta2 from '../assets/Images/Pasta2.png';
-import pasta3 from '../assets/Images/Pasta3.png';
-import pasta4 from '../assets/Images/Pasta4.png';
+import pasta2 from '../assets/Images/pasta2.png';
+import pasta3 from '../assets/Images/pasta3.png';
+import pasta4 from '../assets/Images/pasta4.png';
 
 import salad1 from '../assets/Images/Menu3.png';
-import salad2 from '../assets/Images/Salad2.png';
-import salad3 from '../assets/Images/Salad3.png';
-import salad4 from '../assets/Images/Salad4.png';
+import salad2 from '../assets/Images/salad2.png';
+import salad3 from '../assets/Images/salad3.png';
+import salad4 from '../assets/Images/salad4.png';
 
 import dessert1 from '../assets/Images/Background.png';
-import dessert2 from '../assets/Images/Dessert2.png';
-import dessert3 from '../assets/Images/Dessert3.png';
-import dessert4 from '../assets/Images/Dessert4.png';
+import dessert2 from '../assets/Images/dessert2.png';
+import dessert3 from '../assets/Images/dessert3.png';
+import dessert4 from '../assets/Images/dessert4.png';
 
 export const menuData = {
   pizza: [
